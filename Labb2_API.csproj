@@ -8,5 +8,9 @@
     <PackageReference Include="System.Data.SqlClient" Version="4.8.2" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Labb2_MVC\Labb2_MVC.csproj" />
+  </ItemGroup>
+
 
 </Project>
